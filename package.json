@@ -1,6 +1,9 @@
 {
-  "name": "hello",
+  "name": "vue3.0",
   "version": "0.0.0",
+  "author": {
+    "name": "M69W"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build"
