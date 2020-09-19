@@ -9,7 +9,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "vant": "^v3.0.0-beta.0",
+    "vant": "^3.0.0-beta.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
