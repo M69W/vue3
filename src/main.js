@@ -1,7 +1,9 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import { Button, Cell, CellGroup } from 'vant';
+import vantUI from './vantUI'
 import './index.css'
-import 'vant/lib/index.css';
+import 'vant/lib/index.css'
 
-createApp(App).use(Button).use(Cell).use(CellGroup).mount('#app')
+const appVue = createApp(App)
+vantUI(appVue)
+appVue.mount('#app')
