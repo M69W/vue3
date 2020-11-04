@@ -1,4 +1,4 @@
-# vue 3.0 + vite + vant 3.0
+# vue3 + vite + vant3
 
 [vue-next](https://github.com/vuejs/vue-next)
 
