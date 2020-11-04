@@ -1,6 +1,5 @@
 import { Button, Calendar, Cell, CellGroup } from 'vant'
 import 'vant/lib/index.css'
-import '/@modules/vant/lib/index.css'
 
 function vantUI (appVue) {
     appVue
