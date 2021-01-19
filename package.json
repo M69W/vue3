@@ -9,12 +9,13 @@
     "build": "vite build"
   },
   "dependencies": {
-    "vant": "^v3.0.0",
-    "vue": "^3.0.4"
+    "vant": "^v3.0.4",
+    "vue": "^3.0.5"
   },
   "devDependencies": {
-    "@vue/compiler-sfc": "^3.0.4",
+    "@vitejs/plugin-vue": "^1.0.6",
+    "@vue/compiler-sfc": "^3.0.5",
     "babel-plugin-import": "^1.13.3",
-    "vite": "^1.0.0-rc.13"
+    "vite": "^v2.0.0-beta.31"
   }
 }
