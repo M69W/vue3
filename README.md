@@ -1,9 +1,10 @@
 # vue3 + vite + vant3
 
-[vue-next](https://github.com/vuejs/vue-next)
+[vue3](https://github.com/vuejs/vue-next)  
+[document](https://v3.vuejs.org/)  
 
-[vite](https://github.com/vitejs/vite)
+[vite](https://github.com/vitejs/vite)  
+[document](https://vitejs.dev/)  
 
-[Vant 3.0](https://vant-contrib.gitee.io/vant/next/#/zh-CN/)
 
-[vue 3.0 document](https://v3.cn.vuejs.org/)
+[Vant3](https://youzan.github.io/vant/)  
