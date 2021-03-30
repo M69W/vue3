@@ -7,5 +7,5 @@
 [document](https://vitejs.dev/)  
 
 
-[Vant3](https://youzan.github.io/vant/)  
+[Vant3](https://github.com/youzan/vant)  
 [document](https://youzan.github.io/vant/)
