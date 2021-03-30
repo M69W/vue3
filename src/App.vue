@@ -17,7 +17,8 @@
       <a href="https://vitejs.dev/" target="_blank">文档</a>
     </div>
     <div>
-      <a href="https://vant-contrib.gitee.io/vant/next/#/zh-CN/" target="_blank">Vant3 文档</a>
+      <a href="https://github.com/youzan/vant" target="_blank">Vant3</a> / 
+      <a href="https://youzan.github.io/vant/" target="_blank">文档</a>
     </div>
   </div>
 </template>
